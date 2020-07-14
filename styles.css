@@ -1,0 +1,25 @@
+.jumbotron{
+    text-align: center;
+    background:rgb(255, 255, 255);
+    color: blue;
+}
+.sectionLight{
+    background-color:#eeedea;
+    padding: 2rem;
+}
+
+.sectionDark{
+    background-color: rgb(197, 206, 206);
+    padding: 2rem;
+}
+
+.coolWrapper{
+    margin-top: 30px;
+}
+button.coolbtn{
+    background-color: blue;
+    color: white;
+    display: block;
+    margin: auto;
+
+}
